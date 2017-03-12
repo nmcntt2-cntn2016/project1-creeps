@@ -13,8 +13,8 @@ Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
  Đối tượng sử dụng chủ yếu là học sinh, sinh viên và đương nhiên những người không phải sinh viên mà nếu có nhu cầu thì vẫn có thể mua bán trên trang này nhưng ở đây đối tượng là sinh viên sử dụng thì họ chỉ rao bán những vật dụng mà sinh viên cần thiết.
 # Quy trình hoạt động :
 ## 1 Quy trình dành cho người bán hàng (“Người Bán”)
-* Người bán rao sản phẩm mình muốn bán lên trang(thông qua kiểm duyệt của quản trị trang web) đầy đủ thông tin sản phẩm (hình ảnh, giá sp, thông tin, thông số (nếu có)) kèm thông tin người rao bán (tên, số điện thoại, email, địa chỉ).
-* Sau khi sản phẩm được kiểm duyệt và đăng tải lên trang web thì hệ thống sẽ gởi email xác nhận đến người bán.
+ Người bán rao sản phẩm mình muốn bán lên trang(thông qua kiểm duyệt của quản trị trang web) đầy đủ thông tin sản phẩm (hình ảnh, giá sp, thông tin, thông số (nếu có)) kèm thông tin người rao bán (tên, số điện thoại, email, địa chỉ).
+ Sau khi sản phẩm được kiểm duyệt và đăng tải lên trang web thì hệ thống sẽ gởi email xác nhận đến người bán.
 ## 2 Quy trình dành cho người mua hàng (“Người Mua”)
  Người mua tự tìm kiếm (công cụ tìm kiếm sẽ đc tối ưu, hỗ trợ tìm kiếm dễ dàng hơn), tham khảo thông tin sản phẩm trên trang Web và lựa chọn sản phẩm.
  Người mua tự liên lạc với Người Bán để thỏa thuận việc mua bán.
