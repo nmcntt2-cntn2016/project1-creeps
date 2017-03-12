@@ -7,7 +7,7 @@ Lê Nhựt | 1612879
 Nguyễn Quang Thái | 1612607
 # Làm gì?
 Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
-# Tại sao làm?
+# Tại sao làm? - Làm Cho ai?
  Sinh viên chưa có một trang mua bán đồ dùng cũ, mới (đồ dùng cá nhân, đồ dùng phục vụ học tập và tài liệu học tập đã qua sử dụng hoặc mới). Thực chất trên thị trường thì đã có rất nhiều trang web, ứng dụng để mua bán trao đổi đồ dùng như chotot.vn, chugiong.com,... nhưng phạm vi và đối tượng hoạt động của các trang này quá rộng nên sinh viên không muốn rao bán những vật dụng nhỏ nhặt (tài liệu học tập, đồ dùng phục vụ học tập nghiên cứu hợc, đồ dùng phục vụ đời sống) vì khả năng bán được thì rất khó, đối tượng thì đủ thành phần mua bán, đương nhiên tần suất rao bán lớn thì sẽ khó quản lí, dễ trôi bài, khó tìm ra để mua. Đối tượng sử dụng chủ yếu là học sinh, sinh viên và đương nhiên những người không phải sinh viên mà nếu có nhu cầu thì vẫn có thể mua bán trên trang này nhưng ở đây đối tượng là sinh viên sử dụng thì họ chỉ rao bán những vật dụng mà sinh viên cần thiết. Nhóm Creeps sẽ xây dựng một trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
 # Quy trình mua bán:
 * Quy trình dành cho người bán hàng (“Người Bán”)
