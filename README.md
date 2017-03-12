@@ -16,14 +16,15 @@ trên trang này nhưng ở đây đối tượng là sinh viên sử dụng th�
 Nhóm Creeps sẽ xây dựng một trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
 Quy trình mua bán:
      1.Quy trình dành cho người bán hàng (“Người Bán”)
-        * Người bán rao sản phẩm mình muốn bán lên trang(thông qua kiểm duyệt của quản trị trang web)đầy đủ thông tin sản phẩm
+      * Người bán rao sản phẩm mình muốn bán lên trang(thông qua kiểm duyệt của quản trị trang web)đầy đủ thông tin sản phẩm
         (hình ảnh,giá sp,thông tin,thông số(nếu có)) kèm thông tin người rao bán(tên,số điện thoại,email,địa chỉ).
-        * Sau khi sản phẩm được kiểm duyệt và đăng tải lên trang web thì hệ thống sẽ gởi email xác nhận đến người bán.
+      * Sau khi sản phẩm được kiểm duyệt và đăng tải lên trang web thì hệ thống sẽ gởi email xác nhận đến người bán.
      2. Quy trình dành cho người mua hàng (“Người Mua”)
-       * Người mua tự tìm kiếm(công cụ tìm kiếm sẽ đc tối ưu,hỗ trợ tìm kiếm dễ dàng hơn), tham khảo thông tin sản phẩm trên trang Web và         lựa chọn sản phẩm.
-       * Người mua tự liên lạc với Người Bán để thỏa thuận việc mua bán.
+      * Người mua tự tìm kiếm(công cụ tìm kiếm sẽ đc tối ưu,hỗ trợ tìm kiếm dễ dàng hơn), tham khảo thông tin sản phẩm trên trang Web và         lựa chọn sản phẩm.
+      * Người mua tự liên lạc với Người Bán để thỏa thuận việc mua bán.
      3.Quy trình giao dịch
       * Người mua và người bán tự liên lạc để giao dịch(thanh toán,giao hàng).
+#
 # Giải pháp.
 * Sử dung HTML/CSS/JAVASCRIPT.
 * Quảng cáo cho trang web được thông dụng.
