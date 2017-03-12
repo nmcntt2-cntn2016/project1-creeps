@@ -19,7 +19,7 @@ Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
  Người mua tự tìm kiếm (công cụ tìm kiếm sẽ đc tối ưu, hỗ trợ tìm kiếm dễ dàng hơn), tham khảo thông tin sản phẩm trên trang Web và lựa chọn sản phẩm.
  Người mua tự liên lạc với Người Bán để thỏa thuận việc mua bán.
 ## Quy trình giao dịch
-- Người mua và người bán tự liên lạc để giao dịch (thanh toán, giao hàng).
+ Người mua và người bán tự liên lạc để giao dịch (thanh toán, giao hàng).
 # Làm như thế nào?
 - Tìm hiểu HTML/CSS/Javascript để xây dựng web.
 - Tạo app trên smartphone để tiện dụng hơn.
