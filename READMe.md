@@ -1,8 +1,11 @@
-Danh sách thành viên nhóm Creeps:
-1.Lê Hoàng Sang_1612554 
-2.Lê Nhựt_1612879 
-3.Đoàn Quang Tuấn_1612780 
-4.Nguyễn Quang Thái_1612607
+**Danh sách thành viên nhóm Creeps:**
+Tên | MSSV
+------------ | -------------
+Lê Hoàng Sang | 1612554 
+Lê Nhựt | 1612879
+Đoàn Quang Tuấn | 1612780 
+Nguyễn Quang Thái | 1612607
+
 Làm gì?
 Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
 Tại sao làm?
