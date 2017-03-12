@@ -21,5 +21,5 @@ Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
 ## Quy trình giao dịch
  Người mua và người bán tự liên lạc để giao dịch (thanh toán, giao hàng).
 # Làm như thế nào ?
- Tìm hiểu HTML/CSS/Javascript để xây dựng web.
- Tạo app trên smartphone để tiện dụng hơn.
+  Tìm hiểu HTML/CSS/Javascript để xây dựng web.
+  Tạo app trên smartphone để tiện dụng hơn.
