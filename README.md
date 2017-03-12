@@ -5,7 +5,7 @@
          4.Nguyễn Quang Thái_1612607
 # 
 # Làm gì? 
-Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
+* Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
 # 
 # Tại sao làm?
   Sinh viên chưa có một trang mua bán đồ dùng cũ, mới (đồ dùng cá nhân, đồ dùng phục vụ học tập và tài liệu học tập đã qua sử dụng hoặc mới). Thực chất trên thị trường thì đã có rất nhiều trang web,ứng dụng để mua bán trao đổi đồ dùng như chotot.vn, chugiong.com,... nhưng phạm vi và đối tượng hoạt động của các trang này quá rộng nên sinh viên không muốn rao bán những vật dụng nhỏ nhặt
@@ -16,9 +16,9 @@ trên trang này nhưng ở đây đối tượng là sinh viên sử dụng th�
 Nhóm Creeps sẽ xây dựng một trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
 Quy trình mua bán:
      1.Quy trình dành cho người bán hàng (“Người Bán”)
-       * Người bán rao sản phẩm mình muốn bán lên trang(thông qua kiểm duyệt của quản trị trang web)đầy đủ thông tin sản phẩm
+        * Người bán rao sản phẩm mình muốn bán lên trang(thông qua kiểm duyệt của quản trị trang web)đầy đủ thông tin sản phẩm
         (hình ảnh,giá sp,thông tin,thông số(nếu có)) kèm thông tin người rao bán(tên,số điện thoại,email,địa chỉ).
-       * Sau khi sản phẩm được kiểm duyệt và đăng tải lên trang web thì hệ thống sẽ gởi email xác nhận đến người bán.
+        * Sau khi sản phẩm được kiểm duyệt và đăng tải lên trang web thì hệ thống sẽ gởi email xác nhận đến người bán.
      2. Quy trình dành cho người mua hàng (“Người Mua”)
        * Người mua tự tìm kiếm(công cụ tìm kiếm sẽ đc tối ưu,hỗ trợ tìm kiếm dễ dàng hơn), tham khảo thông tin sản phẩm trên trang Web và         lựa chọn sản phẩm.
        * Người mua tự liên lạc với Người Bán để thỏa thuận việc mua bán.
