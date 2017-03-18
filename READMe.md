@@ -7,7 +7,7 @@ Lê Nhựt | 1612879
 Nguyễn Quang Thái | 1612607
 # Làm gì?
 
-Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.
+Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.( Student market)
 
 <img src="http://imgur.com/KiEcnfB.jpg" align="center"> 
                                   
