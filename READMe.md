@@ -8,9 +8,7 @@ Nguyễn Quang Thái | 1612607
 # Làm gì?
 
 Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.( Student market) <br/>
-                            <div id="container">
-    <div id="box"></div>
-</div>   < Demo page >
+      <p class="alignCenter">Web demo</p>                     
 <img src="http://imgur.com/KiEcnfB.jpg" align="center"> 
                                   
 # Tại sao làm? 
