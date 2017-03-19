@@ -7,8 +7,10 @@ Lê Nhựt | 1612879
 Nguyễn Quang Thái | 1612607
 # Làm gì?
 
-Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.( Student market) "<br/>"
-                               < Demo page >
+Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.( Student market) <br/>
+                            <div id="container">
+    <div id="box"></div>
+</div>   < Demo page >
 <img src="http://imgur.com/KiEcnfB.jpg" align="center"> 
                                   
 # Tại sao làm? 
