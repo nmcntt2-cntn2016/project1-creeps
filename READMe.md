@@ -6,14 +6,11 @@ Lê Nhựt | 1612879
 Đoàn Quang Tuấn | 1612780
 Nguyễn Quang Thái | 1612607
 # Làm gì?
-<b>
 ```
 Trang web mua bán đồ dùng trực tuyến dành cho sinh viên.( Student market)  <br>
  ```
- </b>
-
 <img src="http://imgur.com/KiEcnfB.jpg" align="center">    <br> 
-         <p align = "center"><b> Web Demo </b> <p> 
+         <p align = "center"><b> Web Demo_ Designed by Team Creeps </b> <p> 
 # Tại sao làm ?         
  Sinh viên chưa có một trang mua bán đồ dùng cũ, mới (đồ dùng cá nhân, đồ dùng phục vụ học tập và tài liệu học tập đã qua sử dụng hoặc mới). Thực chất trên thị trường thì đã có rất nhiều trang web, ứng dụng để mua bán trao đổi đồ dùng như chotot.vn, chugiong.com,... nhưng phạm vi và đối tượng hoạt động của các trang này quá rộng nên sinh viên không muốn rao bán những vật dụng nhỏ nhặt (tài liệu học tập, đồ dùng phục vụ học tập nghiên cứu hợc, đồ dùng phục vụ đời sống) vì khả năng bán được thì rất khó, đối tượng thì đủ thành phần mua bán, đương nhiên tần suất rao bán lớn thì sẽ khó quản lí, dễ trôi bài, khó tìm ra để mua.
 # Làm cho ai?
