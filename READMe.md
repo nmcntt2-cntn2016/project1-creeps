@@ -6,10 +6,10 @@ Lê Nhựt | 1612879
 Đoàn Quang Tuấn | 1612780
 Nguyễn Quang Thái | 1612607
 # Làm gì?
-```
+
 Trang web/app mua bán đồ dùng trực tuyến dành cho sinh viên.( Student market)
 <a href="https://introduce-studentmarket.github.io" target="_blank" title="Click để xem chi tiết">Trang giới thiệu</a>
- ```
+
 <img src="http://imgur.com/KiEcnfB.jpg" align="center">    <br> 
          <p align = "center"><b> Web Demo_ Designed by Team Creeps </b> <p> 
 # Tại sao làm ?         
