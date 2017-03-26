@@ -8,7 +8,7 @@ Nguyễn Quang Thái | 1612607
 # Làm gì?
 ```
 Trang web/app mua bán đồ dùng trực tuyến dành cho sinh viên.( Student market)
-Trang giới thiệu : https://introduce-studentmarket.github.io/
+<a href="https://introduce-studentmarket.github.io" target="_blank" title="Click để xem chi tiết">Trang giới thiệu</a>
  ```
 <img src="http://imgur.com/KiEcnfB.jpg" align="center">    <br> 
          <p align = "center"><b> Web Demo_ Designed by Team Creeps </b> <p> 
